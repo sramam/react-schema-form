@@ -29,8 +29,8 @@
     "material-ui": "^0.16.1",
     "object-assign": "^4.0.1",
     "objectpath": "^1.2.1",
-    "react": "^15.3.2",
-    "react-dom": "^15.0.0",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
     "react-tap-event-plugin": "^1.0.0",
     "tv4": "^1.2.7"
   },
